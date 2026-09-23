@@ -1,0 +1,3 @@
+[env]
+MUJOCO_DOWNLOAD_DIR = { value = ".mujoco_src", relative = true }
+LD_LIBRARY_PATH = { value = ".mujoco_src/mujoco-3.12.0/lib", relative = true }

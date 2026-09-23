@@ -27,6 +27,7 @@ default.nix
 target/
 node_modules/
 dist/
+.mujoco_src/
 
 .nao_cargo_home
 .REMOTE_WORKSPACE
